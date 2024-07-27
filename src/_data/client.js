@@ -1,8 +1,8 @@
 module.exports = {
-    "name": "Tomato Tattoo",
-    "email": "info@tomatotattoo.com",
-    "phoneForTel": "(630) 241-0669",
-    "phoneFormatted": "(630) 241-0669",
+    "name": "Harry's Painting and Residential Worx ",
+    "email": "info@harryspainting.com",
+    "phoneForTel": "985-258-9964",
+    "phoneFormatted": "985-258-9964",
     "address": {
         "lineOne": "1205 Maple Ave",
         "lineTwo": "",
